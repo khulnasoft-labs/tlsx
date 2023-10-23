@@ -18,7 +18,7 @@ require (
 	github.com/projectdiscovery/dnsx v1.1.4
 	github.com/rs/xid v1.5.0
 	github.com/stretchr/testify v1.8.4
-	github.com/zmap/zcrypto v0.0.0-20230730154921-64a80ee67140
+	github.com/zmap/zcrypto v0.0.0-20231018155041-c1c1128be414
 	go.uber.org/multierr v1.11.0
 	golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b
 )
