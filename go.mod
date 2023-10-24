@@ -7,7 +7,7 @@ require (
 	github.com/cloudflare/cfssl v1.6.4
 	github.com/hdm/jarm-go v0.0.7
 	github.com/json-iterator/go v1.1.12
-	github.com/khulnasoft-labs/fastdialer v0.0.35
+	github.com/khulnasoft-labs/fastdialer v0.0.36
 	github.com/khulnasoft-labs/goflags v0.1.11
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/mapcidr v1.1.2
@@ -52,8 +52,8 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/khulnasoft-labs/asnmap v1.0.0 // indirect
 	github.com/khulnasoft-labs/blackrock v0.0.2 // indirect
-	github.com/khulnasoft-labs/hmap v0.0.14 // indirect
-	github.com/khulnasoft-labs/networkpolicy v0.0.6 // indirect
+	github.com/khulnasoft-labs/hmap v0.0.15 // indirect
+	github.com/khulnasoft-labs/networkpolicy v0.0.7 // indirect
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e // indirect
 	github.com/klauspost/compress v1.16.6 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
