@@ -10,7 +10,7 @@ require (
 	github.com/khulnasoft-labs/fastdialer v0.0.35
 	github.com/khulnasoft-labs/goflags v0.1.11
 	github.com/khulnasoft-labs/gologger v1.1.11
-	github.com/khulnasoft-labs/mapcidr v1.1.2
+	github.com/khulnasoft-labs/mapcidr v1.1.4
 	github.com/khulnasoft-labs/retryablehttp-go v1.0.20
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/logrusorgru/aurora v2.0.3+incompatible
